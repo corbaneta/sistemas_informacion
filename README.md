@@ -1,3 +1,3 @@
 # sistemas_informacion
 
-Prueba para slack
+Prueba para slack notificaciones
